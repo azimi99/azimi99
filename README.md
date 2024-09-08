@@ -7,5 +7,4 @@ I am doing my M Sc. in Machine Learning at the University of Alberta.
 ## Interests
 - ⚛ Quantum Computing
 - 🤖 Artificial Intelligence
-- 💻 Full Stack Development
-- 📟 Embedded Systems
+
