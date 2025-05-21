@@ -2,7 +2,7 @@
 
 I received my B Sc. in Software Engineering Coop from the University of Alberta. 
 
-I am doing my M Sc. in Machine Learning at the University of Alberta. 
+I am doing my M Sc. in Computing Science/Machine Learning at the University of Alberta. 
 
 ## Interests
 - Quantum Computing
