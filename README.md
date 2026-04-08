@@ -1,14 +1,16 @@
 # Alireza Azimi
 
-I received my B Sc. in Software Engineering Coop from the University of Alberta. 
+I received my B Sc in Software Engineering Co-op from the University of Alberta. 
 
-I am doing my M Sc. in Computing Science/Machine Learning at the University of Alberta. 
+I have an MSc in Computing Science/Machine Learning from the University of Alberta. My research combined reinforcement learning, sim-to-real transfer, and robotics control theory. 
+
+I am joining Sanctuary AI in Vancouver as an ML engineer. 
 
 ## Interests
 - Reinforcement Learning
 - Deep Learning
 - Statistical Analysis
-- Real Analaysis
+- Real Analysis
 - Probability Theory
 - Finance
 
